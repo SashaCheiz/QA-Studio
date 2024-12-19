@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "theme": "elegant"
+    },
+    "basics": {
+        "name": "Korbut Aleksandr",
+        "label": "Quality Assurance Engineer",
+        "summary": "🖐️ I'm a QA Engineer ",
+        "website": "https://github.com/SashaCheiz",
+        "email": "boss@akorbut.ru",
+        "location": {
+            "city": "Ekaterinburg"
+        },
+        "profiles": [
+            {
+                "url": "https://github.com/SashaCheiz",
+                "username": "SashaCheiz",
+                "network": "github"
+            },
+            {
+                "url": "https://t.me/sasha_cheiz",
+                "username": "sasha_cheiz",
+                "network": "telegram"
+            }
+        ]
+    },
+    "skills": [
+        {
+            "keywords": [
+                "Postman",
+                "Cypress",
+                "Charles",
+                "Android Studio",
+                "Git",
+                "HTTP / SOAP",
+                "SQL",
+                "Chrome DevTools",
+                "REST / JSON",
+                "API",
+                "JMeter",
+                "Allure"
+            ]
+        }
+    ]
+}
