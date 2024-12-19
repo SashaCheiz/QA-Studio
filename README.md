@@ -1,1 +1,2 @@
-# QA-Studio
+# QA Studio
+### QA Studio training
